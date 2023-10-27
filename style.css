@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #app {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  #parsedResume {
+    margin-top: 20px;
+  }
+  
